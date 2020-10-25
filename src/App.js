@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Teste React DevOps
+      Segunda versão do aplicativo
     </div>
   );
 }
