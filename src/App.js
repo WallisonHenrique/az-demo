@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Versão - build continuous integrations
+      Versão - build continuous integrations -> teste
     </div>
   );
 }
