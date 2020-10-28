@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Versão - build continuous integrations -> teste
+      Build -> 13:14 - 28/10
     </div>
   );
 }
