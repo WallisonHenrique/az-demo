@@ -2,7 +2,7 @@ import React from 'react';
 function App() {
   return (
     <div className="App">
-      Feature nova
+      Teste de bloqueio de branch
     </div>
   );
 }
